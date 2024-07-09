@@ -1,0 +1,7 @@
+player_car 400 400 data/assets/player_car.png
+obstacle_car 150 250 data/assets/obstacle_car1.png
+obstacle_car 450 50 data/assets/obstacle_car2.png
+obstacle 570 320 data/assets/obstacle.png
+obstacle 100 200 data/assets/obstacle.png
+bonus 240 40 data/assets/bonus.png
+bonus 700 450 data/assets/bonus.png
